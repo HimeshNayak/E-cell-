@@ -133,7 +133,7 @@ particlesJS('particles-js',
 
 );
 
-        var countDownDate = new Date ("August 21, 2019 00:00:00").getTime();
+        var countDownDate = new Date ("September 21, 2019 00:00:00").getTime();
 
         var x = setInterval(function() {
 
